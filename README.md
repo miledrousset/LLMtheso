@@ -6,6 +6,8 @@ This repository gathers the data and the documentation of LLMtheso workflow.
 # Documentation and examples
 # Terminal
 # Documentation and examples
+A detailed documentation can be found here with a number of example CSV files in the  folder.
+
 # Testing and scope of application
 # Web interface
 # API
