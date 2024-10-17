@@ -17,5 +17,6 @@ MeetUp Ontotext, Paris…
 # Acknowledgements
 # Archives and Releases
 # Licence
+https://github.com/miledrousset/LLMtheso/blob/main/LICENSE.md
 All code are released under GPLv3+ licence. The associated documentation and other content are released under CC-BY-SA.
 
