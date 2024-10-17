@@ -4,7 +4,7 @@ with the reason of testing such prompt and related patterns
 ##Prompt 32:
 ##Prompt 33:
 ##Prompt 35:
-##Prompt 36:
+##Prompt 38:
 
 #List of test prompts, intermediary prompts for the experiment:
 ##Prompt 1:
@@ -33,6 +33,7 @@ with the reason of testing such prompt and related patterns
 ##Prompt 24:
 ##Prompt 25:
 ##Prompt 25:
+...
 ##Prompt 26:
 ##Prompt 27:
 ##Prompt 28:
